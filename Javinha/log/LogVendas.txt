@@ -1,0 +1,35 @@
+Data e hora: 2024/06/21 23:27:12 -- Venda Efetuada - ClienteNicolas Valor Total:207.0
+Data e hora: 2024/06/21 23:27:12 -- Venda Efetuada - ClienteNicolas Valor Total:207.0
+Data e hora: 2024/06/21 23:27:12 -- Venda Efetuada - ClienteNicolas Valor Total:207.0
+Data e hora: 2024/06/21 23:27:12 -- Venda Efetuada - ClienteNicolas Valor Total:207.0
+Data e hora: 2024/06/21 23:52:16 -- Venda Efetuada - Cliente: Laura Christine - Valor Total:512.0
+Data e hora: 2024/06/21 23:52:22 -- Venda Efetuada - Cliente: Nicolas - Valor Total:248.0
+Data e hora: 2024/06/22 10:35:43 -- Venda Efetuada - Cliente: Laura Christine - Valor Total: R$0.0Cogumelos: []
+Data e hora: 2024/06/22 12:08:54 -- Venda Efetuada -Cliente: Jo�o Paulo -Valor Total: R$102.0
+Data e hora: 2024/06/22 12:08:54 -- Cogumelos Vendido: Shiitake - Quantidade: 0
+Data e hora: 2024/06/22 12:57:09 -- Venda Efetuada - Cliente: Nicolas - Valor Total: R$92.0
+Data e hora: 2024/06/22 12:57:09 -- Cogumelos Vendido: Champignon - Quantidade: 2
+Data e hora: 2024/06/22 15:11:17 -- Venda Efetuada - Cliente: Cliente - Valor Total: R$0.0
+Data e hora: 2024/06/22 15:16:32 -- Venda Efetuada - Cliente: Nicolas - Valor Total: R$68.0
+Data e hora: 2024/06/22 15:16:32 -- Cogumelos Vendidos: Shiitake - Quantidade: 0
+Data e hora: 2024/06/22 15:19:10 -- Venda Efetuada - Cliente: Cliente - Valor Total: R$23.0
+Data e hora: 2024/06/22 15:19:10 -- Cogumelos Vendidos: Champignon - Quantidade: 0
+Data e hora: 2024/06/22 15:24:41 -- Venda Efetuada - Cliente: Cliente - Valor Total: R$0.0
+Data e hora: 2024/06/22 15:26:34 -- Venda Efetuada - Cliente: Nicolas - Valor Total: R$69.0
+Data e hora: 2024/06/22 15:26:34 -- Cogumelos Vendidos: Champignon - Quantidade: 0
+Data e hora: 2024/06/22 15:28:02 -- Venda Efetuada - Cliente: Cliente - Valor Total: R$0.0
+Data e hora: 2024/06/22 17:32:45 -- Venda Efetuada - Cliente: Nicolas - Valor Total: R$2.0
+Data e hora: 2024/06/22 17:32:45 -- Cogumelos Vendidos: 1 - Estoque: 0
+Data e hora: 2024/06/22 17:32:45 -- Cogumelos Vendidos: 1 - Estoque: 0
+Data e hora: 2024/06/22 20:46:51 -- Venda Efetuada - Cliente: Carlos Eduardo - Valor Total: R$54.0
+Data e hora: 2024/06/22 20:46:52 -- Cogumelos Vendidos: Champignon - Estoque: 90
+Data e hora: 2024/06/22 21:00:26 -- Venda Efetuada - Cliente: Nicolas - Valor Total: R$350.0
+Data e hora: 2024/06/22 21:00:26 -- Cogumelos Vendidos: Portobello - Quantidade vendida: 10 -  Novo estoque: -2
+Data e hora: 2024/06/22 21:07:49 -- Venda Efetuada - Cliente: Laura Christine - Valor Total: R$189.0
+Data e hora: 2024/06/22 21:07:49 -- Cogumelos Vendidos: Champignon - Quantidade vendida: 5 -  Novo estoque: 87
+Data e hora: 2024/06/22 21:07:49 -- Cogumelos Vendidos: Champignon - Quantidade vendida: 2 -  Novo estoque: 90
+Data e hora: 2024/06/22 21:11:43 -- Venda Efetuada - Cliente: Rodrigo Teles - Valor Total: R$431.0
+Data e hora: 2024/06/22 21:11:43 -- Cogumelos Vendidos: Portobello - Quantidade vendida: 10 -  Novo estoque: -2
+Data e hora: 2024/06/22 21:11:43 -- Cogumelos Vendidos: Champignon - Quantidade vendida: 3 -  Novo estoque: 87
+Data e hora: 2024/06/22 21:20:12 -- Venda Efetuada - Cliente: Rodrigo Teles - Valor Total: R$1750.0
+Data e hora: 2024/06/22 21:20:12 -- Cogumelos Vendidos: Portobello - Quantidade vendida: 50 -  Novo estoque: 50

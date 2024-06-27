@@ -1,0 +1,65 @@
+Data e hora: 2024/06/11 20:30:31 -- O produto Shiitake foi adicionado
+Data e hora: 2024/06/11 20:31:22 -- O Cliente Nicola Lindo foi adicionado
+Data e hora: 2024/06/11 20:31:56 -- O produto Shiitake foi removido
+Data e hora: 2024/06/11 20:32:30 -- O produto Portobello foi adicionado
+Data e hora: 2024/06/11 20:32:50 -- O produto Paris foi adicionado
+Data e hora: 2024/06/11 20:33:18 -- O valor do Produto Paris foi alterado
+Data e hora: 2024/06/11 20:34:18 -- O Produto Portobello foi aumentado em31unidades
+Data e hora: 2024/06/11 20:34:44 -- O valor do Produto Portobello foi alterado
+Data e hora: 2024/06/11 20:35:20 -- O produto Shiitake foi adicionado
+Data e hora: 2024/06/13 21:35:09 -- O produto non foi adicionado
+Data e hora: 2024/06/20 22:34:54 -- O produto Paris foi adicionado
+Data e hora: 2024/06/21 17:49:17 -- O produto Shiitake foi adicionado
+Data e hora: 2024/06/21 17:50:19 -- O produto Champignon foi adicionado
+Data e hora: 2024/06/21 17:51:49 -- O produto Portobello foi adicionado
+Data e hora: 2024/06/21 17:52:26 -- A descrição do Produto Portobello foi alterada
+Data e hora: 2024/06/21 17:54:02 -- O Cliente Carlos Eduardo foi adicionado
+Data e hora: 2024/06/21 17:59:22 -- O Cliente Weslley Severino foi adicionado
+Data e hora: 2024/06/21 18:14:45 -- O Cliente Laura Christine foi adicionado
+Data e hora: 2024/06/21 18:21:27 -- O Cliente Carlos Eduardo foi removido
+Data e hora: 2024/06/21 18:21:38 -- O Cliente Weslley Severino foi removido
+Data e hora: 2024/06/21 18:21:41 -- O Cliente Laura Christine foi removido
+Data e hora: 2024/06/21 18:22:27 -- O Cliente Nicolas foi adicionado
+Data e hora: 2024/06/21 18:24:45 -- O Cliente Laura Christine foi adicionado
+Data e hora: 2024/06/21 18:39:08 -- O Cliente Carlos Eduardo foi adicionado
+Data e hora: 2024/06/22 11:22:29 -- O produto Portobello foi adicionado
+Data e hora: 2024/06/22 11:23:52 -- O Cliente Jo�o Paulo foi adicionado
+Data e hora: 2024/06/22 11:24:54 -- O Cliente Pedro foi adicionado
+Data e hora: 2024/06/22 11:25:16 -- O Nome do cliente Pedro foi alterado paraPedro Henrique
+Data e hora: 2024/06/22 11:30:27 -- O produto 1 foi adicionado
+Data e hora: 2024/06/22 11:30:52 -- O nome do Produto 1 foi alterado para Shiitake
+Data e hora: 2024/06/22 11:31:18 -- A descrição do Produto Shiitake foi alterada
+Data e hora: 2024/06/22 11:31:50 -- O Produto Shiitake foi aumentado em89unidades
+Data e hora: 2024/06/22 11:32:09 -- O valor do Produto Shiitake foi alterado
+Data e hora: 2024/06/22 11:32:50 -- O produto Champignon foi adicionado
+Data e hora: 2024/06/22 13:19:45 -- O Cliente Karen foi adicionado
+Data e hora: 2024/06/22 15:04:48 -- O Cliente Cliente foi adicionado
+Data e hora: 2024/06/22 15:15:02 -- O Cliente Nicolas foi adicionado
+Data e hora: 2024/06/22 15:27:27 -- O Produto Champignon foi aumentado em 3 unidades
+Data e hora: 2024/06/22 16:50:35 -- O Produto Champignon foi aumentado em 100 unidades
+Data e hora: 2024/06/22 17:15:23 -- O produto 1 foi adicionado
+Data e hora: 2024/06/22 17:28:32 -- O nome do Produto 1 foi alterado para Shiitake
+Data e hora: 2024/06/22 17:37:58 -- O produto Paris foi adicionado
+Data e hora: 2024/06/22 20:30:28 -- O Produto Shiitake foi aumentado em 100 unidades
+Data e hora: 2024/06/22 20:30:47 -- O nome do Produto Shiitake foi alterado para Portobello
+Data e hora: 2024/06/22 20:31:08 -- O valor do Produto Portobello foi alterado
+Data e hora: 2024/06/22 20:31:32 -- A descrição do Produto Portobello foi alterada
+Data e hora: 2024/06/22 20:32:04 -- O Produto Paris foi aumentado em 83 unidades
+Data e hora: 2024/06/22 20:32:50 -- O produto Champignon foi adicionado
+Data e hora: 2024/06/22 20:33:42 -- O Nome do cliente Cliente foi alterado para Carlos Eduardo
+Data e hora: 2024/06/22 20:34:31 -- O email do cliente Carlos Eduardo foi alterado
+Data e hora: 2024/06/22 20:36:47 -- O Cliente Laura Christine foi adicionado
+Data e hora: 2024/06/22 20:37:27 -- O estoque do Champignon foi diminuido em 2 - Novo Estoque: 90
+Data e hora: 2024/06/22 20:40:55 -- O estoque do Paris foi diminuido em 2 - Novo Estoque: 83
+Data e hora: 2024/06/22 20:41:26 -- O estoque do Champignon foi diminuido em 5 - Novo Estoque: 87
+Data e hora: 2024/06/22 20:41:49 -- O estoque do Portobello foi diminuido em 2 - Novo Estoque: 98
+Data e hora: 2024/06/22 20:43:23 -- O Cliente Harry foi adicionado
+Data e hora: 2024/06/22 20:44:56 -- O Nome do cliente Harry foi alterado para Rodrigo Teles
+Data e hora: 2024/06/22 20:45:33 -- O email do cliente Rodrigo Teles foi alterado
+Data e hora: 2024/06/22 20:46:12 -- O estoque do Portobello foi diminuido em 10 - Novo Estoque: 88
+Data e hora: 2024/06/22 20:46:26 -- O estoque do Paris foi aumentado em 2 - Novo Estoque: 85
+Data e hora: 2024/06/22 21:06:28 -- O estoque do Champignon foi diminuido em 2 - Novo Estoque: 90
+Data e hora: 2024/06/22 21:10:56 -- O estoque do Champignon foi diminuido em 3 - Novo Estoque: 87
+Data e hora: 2024/06/22 21:17:13 -- O estoque do Portobello foi diminuido em 10 - Novo Estoque: 90
+Data e hora: 2024/06/22 21:18:49 -- O estoque do Portobello foi aumentado em 10 - Novo Estoque: 100
+Data e hora: 2024/06/22 21:19:23 -- O estoque do Portobello foi diminuido em 50 - Novo Estoque: 50

@@ -1,0 +1,119 @@
+Data e hora: 2024/06/21 20:15:46 -- O carrinho do cliente Nicolas foi criado
+Data e hora: 2024/06/21 20:17:48 -- O carrinho do cliente Nicolas foi criado
+Data e hora: 2024/06/21 21:13:10 -- O carrinho do cliente Nicolas foi criado
+Data e hora: 2024/06/21 21:55:15 -- O carrinho do cliente Nicolas foi criado
+Data e hora: 2024/06/21 22:02:42 -- O carrinho do cliente Nicolas foi criado
+Data e hora: 2024/06/21 22:02:59 -- O carrinho do cliente Laura Christine foi criado
+Data e hora: 2024/06/21 22:03:08 -- O carrinho do cliente Carlos Eduardo foi criado
+Data e hora: 2024/06/21 22:07:49 -- O carrinho do cliente Nicolas foi criado
+Data e hora: 2024/06/21 22:10:48 -- O carrinho do cliente Nicolas foi criado
+Data e hora: 2024/06/21 22:18:09 -- O carrinho do cliente Nicolas foi criado
+Data e hora: 2024/06/21 22:10:55 -- O Parisfoi adicionado ao carrinho do clienteNicolas
+Data e hora: 2024/06/21 22:16:46 -- O Champignonfoi adicionado ao carrinho do clienteNicolas
+Data e hora: 2024/06/21 22:17:06 -- O Shiitakefoi removido do carrinho do clienteNicolas
+Data e hora: 2024/06/21 22:17:22 -- O Parisfoi removido do carrinho do clienteNicolas
+Data e hora: 2024/06/21 22:18:19 -- O Parisfoi adicionado ao carrinho do clienteNicolas
+Data e hora: 2024/06/21 22:23:14 -- O Parisfoi removido do carrinho do clienteNicolas
+Data e hora: 2024/06/21 22:28:58 -- O Parisfoi adicionado ao carrinho do clienteNicolas
+Data e hora: 2024/06/21 22:29:17 -- O Champignonfoi adicionado ao carrinho do clienteNicolas
+Data e hora: 2024/06/21 22:29:53 -- O Shiitakefoi adicionado ao carrinho do clienteLaura Christine
+Data e hora: 2024/06/21 22:30:04 -- O Shiitakefoi adicionado ao carrinho do clienteLaura Christine
+Data e hora: 2024/06/21 22:30:17 -- O Parisfoi adicionado ao carrinho do clienteNicolas
+Data e hora: 2024/06/21 22:30:47 -- O Champignonfoi adicionado ao carrinho do clienteLaura Christine
+Data e hora: 2024/06/21 22:31:18 -- O Parisfoi adicionado ao carrinho do clienteNicolas
+Data e hora: 2024/06/21 22:31:30 -- O Shiitakefoi removido do carrinho do clienteLaura Christine
+Data e hora: 2024/06/21 23:15:43 -- O Shiitakefoi adicionado ao carrinho do clienteLaura Christine
+
+Data e hora: 2024/06/21 23:47:03 -- O carrinho do cliente Nicolas foi criado
+Data e hora: 2024/06/21 23:49:31 -- O Parisfoi adicionado ao carrinho do clienteNicolas
+Data e hora: 2024/06/21 23:49:41 -- O carrinho do cliente Carlos Eduardo foi criado
+Data e hora: 2024/06/21 23:50:01 -- O carrinho do cliente Laura Christine foi criado
+Data e hora: 2024/06/21 23:50:14 -- O Shiitakefoi adicionado ao carrinho do clienteLaura Christine
+Data e hora: 2024/06/21 23:50:28 -- O Shiitakefoi adicionado ao carrinho do clienteLaura Christine
+Data e hora: 2024/06/21 23:51:43 -- O Parisfoi adicionado ao carrinho do clienteCarlos Eduardo
+Data e hora: 2024/06/21 23:53:04 -- O Parisfoi adicionado ao carrinho do clienteCarlos Eduardo
+Data e hora: 2024/06/22 00:03:46 -- O Parisfoi adicionado ao carrinho do clienteCarlos Eduardo
+Data e hora: 2024/06/22 00:04:09 -- O Parisfoi removido do carrinho do clienteCarlos Eduardo
+Data e hora: 2024/06/22 00:04:21 -- O Parisfoi removido do carrinho do clienteCarlos Eduardo
+Data e hora: 2024/06/22 00:04:36 -- O Parisfoi removido do carrinho do clienteCarlos Eduardo
+Data e hora: 2024/06/22 00:09:13 -- O carrinho do cliente Carlos Eduardofoi removido
+Data e hora: 2024/06/22 00:15:28 -- O carrinho do cliente Nicolas foi criado
+Data e hora: 2024/06/22 00:15:39 -- O Parisfoi adicionado ao carrinho do clienteNicolas
+Data e hora: 2024/06/22 00:19:06 -- O carrinho do cliente Nicolas foi removido
+Data e hora: 2024/06/22 00:19:10 -- O carrinho do cliente Laura Christine foi criado
+Data e hora: 2024/06/22 00:19:19 -- O carrinho do cliente Laura Christine foi criado
+Data e hora: 2024/06/22 00:29:33 -- O carrinho do cliente Nicolas foi criado
+Data e hora: 2024/06/22 00:29:35 -- O carrinho do cliente Nicolas foi criado
+Data e hora: 2024/06/22 11:04:48 -- O carrinho do cliente Nicolas foi criado
+Data e hora: 2024/06/22 11:25:36 -- O carrinho do cliente Jo�o Paulo foi criado
+Data e hora: 2024/06/22 11:33:18 -- O Champignon foi adicionado ao carrinho do cliente Nicolas
+Data e hora: 2024/06/22 11:33:34 -- O Portobello foi adicionado ao carrinho do cliente Jo�o Paulo
+Data e hora: 2024/06/22 11:49:15 -- O Portobello foi adicionado ao carrinho do cliente Jo�o Paulo
+Data e hora: 2024/06/22 11:49:54 -- O Portobello foi removido do carrinho do cliente Jo�o Paulo
+Data e hora: 2024/06/22 11:50:14 -- O Shiitake foi removido do carrinho do cliente Jo�o Paulo
+Data e hora: 2024/06/22 11:50:31 -- O Portobello foi removido do carrinho do cliente Jo�o Paulo
+Data e hora: 2024/06/22 11:50:38 -- O Shiitake foi removido do carrinho do cliente Jo�o Paulo
+Data e hora: 2024/06/22 11:50:53 -- O Champignon foi removido do carrinho do cliente Jo�o Paulo
+Data e hora: 2024/06/22 11:51:02 -- O Portobello foi removido do carrinho do cliente Jo�o Paulo
+Data e hora: 2024/06/22 11:53:40 -- O Shiitake foi removido do carrinho do cliente Jo�o Paulo
+Data e hora: 2024/06/22 11:54:44 -- O Shiitake foi removido do carrinho do cliente Jo�o Paulo
+Data e hora: 2024/06/22 11:55:16 -- O Portobello foi removido do carrinho do cliente Jo�o Paulo
+Data e hora: 2024/06/22 11:56:13 -- O carrinho do cliente Jo�o Paulo foi removido
+Data e hora: 2024/06/22 11:56:27 -- O carrinho do cliente Laura Christine foi criado
+Data e hora: 2024/06/22 11:56:32 -- O carrinho do cliente Carlos Eduardo foi criado
+Data e hora: 2024/06/22 11:56:36 -- O carrinho do cliente Jo�o Paulo foi criado
+Data e hora: 2024/06/22 11:56:49 -- O Shiitake foi adicionado ao carrinho do cliente Laura Christine
+Data e hora: 2024/06/22 11:56:58 -- O Champignon foi adicionado ao carrinho do cliente Carlos Eduardo
+Data e hora: 2024/06/22 11:57:24 -- O Shiitake foi removido do carrinho do cliente Laura Christine
+Data e hora: 2024/06/22 12:02:20 -- O Shiitake foi removido do carrinho do cliente Laura Christine
+Data e hora: 2024/06/22 12:02:54 -- O Shiitake foi removido do carrinho do cliente Carlos Eduardo
+Data e hora: 2024/06/22 12:08:11 -- O Portobello foi adicionado ao carrinho do cliente Nicolas
+Data e hora: 2024/06/22 12:08:20 -- O Shiitake foi adicionado ao carrinho do cliente Carlos Eduardo
+Data e hora: 2024/06/22 12:08:32 -- O Shiitake foi adicionado ao carrinho do cliente Jo�o Paulo
+Data e hora: 2024/06/22 12:41:20 -- O Shiitake foi removido do carrinho do cliente Carlos Eduardo
+Data e hora: 2024/06/22 12:46:50 -- O Shiitake foi removido do carrinho do cliente Carlos Eduardo
+Data e hora: 2024/06/22 12:56:25 -- O Shiitake foi removido do carrinho do cliente Carlos Eduardo
+Data e hora: 2024/06/22 12:56:41 -- O Portobello foi removido do carrinho do cliente Nicolas
+Data e hora: 2024/06/22 15:08:23 -- O carrinho do cliente Cliente foi criado
+Data e hora: 2024/06/22 15:15:19 -- O carrinho do cliente Nicolas foi criado
+Data e hora: 2024/06/22 15:15:39 -- O Shiitake foi adicionado ao carrinho do cliente Nicolas
+Data e hora: 2024/06/22 15:18:32 -- O carrinho do cliente Cliente foi criado
+Data e hora: 2024/06/22 15:18:51 -- O Champignon foi adicionado ao carrinho do cliente Cliente
+Data e hora: 2024/06/22 15:24:50 -- O carrinho do cliente Cliente foi criado
+Data e hora: 2024/06/22 15:25:12 -- O carrinho do cliente Nicolas foi criado
+Data e hora: 2024/06/22 15:25:54 -- O Champignon foi adicionado ao carrinho do cliente Nicolas
+Data e hora: 2024/06/22 15:27:51 -- O Champignon foi adicionado ao carrinho do cliente Cliente
+Data e hora: 2024/06/22 16:51:01 -- O carrinho do cliente Cliente foi criado
+Data e hora: 2024/06/22 16:51:16 -- O Champignon foi adicionado ao carrinho do cliente Cliente
+Data e hora: 2024/06/22 16:53:56 -- O carrinho do cliente Cliente foi removido
+Data e hora: 2024/06/22 16:54:03 -- O carrinho do cliente Nicolas foi criado
+Data e hora: 2024/06/22 16:54:19 -- O Champignon foi adicionado ao carrinho do cliente Nicolas
+Data e hora: 2024/06/22 16:59:55 -- O carrinho do cliente Cliente foi criado
+Data e hora: 2024/06/22 17:00:06 -- O Champignon foi adicionado ao carrinho do cliente Nicolas
+Data e hora: 2024/06/22 17:18:29 -- O carrinho do cliente Nicolas foi criado
+Data e hora: 2024/06/22 17:22:54 -- O carrinho do cliente Nicolas foi criado
+Data e hora: 2024/06/22 17:23:17 -- O 1 foi adicionado ao carrinho do cliente Nicolas
+Data e hora: 2024/06/22 17:27:18 -- O carrinho do cliente Nicolas foi removido
+Data e hora: 2024/06/22 17:27:49 -- O 1 foi adicionado ao carrinho do cliente Nicolas
+Data e hora: 2024/06/22 17:39:04 -- O carrinho do cliente Cliente foi criado
+Data e hora: 2024/06/22 17:39:39 -- O Paris foi adicionado ao carrinho do cliente Cliente
+Data e hora: 2024/06/22 17:40:01 -- O Paris foi removido do carrinho do cliente Cliente
+Data e hora: 2024/06/22 20:35:29 -- O carrinho do cliente Cliente foi removido
+Data e hora: 2024/06/22 20:35:48 -- O carrinho do cliente Carlos Eduardo foi criado
+Data e hora: 2024/06/22 20:35:50 -- O carrinho do cliente Nicolas foi criado
+Data e hora: 2024/06/22 20:37:12 -- O carrinho do cliente Laura Christine foi criado
+Data e hora: 2024/06/22 20:37:27 -- O Champignon foi adicionado ao carrinho do cliente Carlos Eduardo
+Data e hora: 2024/06/22 20:40:55 -- O Paris foi adicionado ao carrinho do cliente Nicolas
+Data e hora: 2024/06/22 20:41:26 -- O Champignon foi adicionado ao carrinho do cliente Laura Christine
+Data e hora: 2024/06/22 20:41:49 -- O Portobello foi adicionado ao carrinho do cliente Nicolas
+Data e hora: 2024/06/22 20:45:54 -- O carrinho do cliente Rodrigo Teles foi criado
+Data e hora: 2024/06/22 20:46:12 -- O Portobello foi adicionado ao carrinho do cliente Rodrigo Teles
+Data e hora: 2024/06/22 20:46:26 -- O Paris foi removido do carrinho do cliente Nicolas
+Data e hora: 2024/06/22 21:06:28 -- O Champignon foi adicionado ao carrinho do cliente Laura Christine
+Data e hora: 2024/06/22 21:10:56 -- O Champignon foi adicionado ao carrinho do cliente Rodrigo Teles
+Data e hora: 2024/06/22 21:12:12 -- O carrinho do cliente Carlos Eduardo foi criado
+Data e hora: 2024/06/22 21:12:17 -- O carrinho do cliente Carlos Eduardo foi criado
+Data e hora: 2024/06/22 21:16:42 -- O carrinho do cliente Rodrigo Teles foi criado
+Data e hora: 2024/06/22 21:17:13 -- O Portobello foi adicionado ao carrinho do cliente Rodrigo Teles
+Data e hora: 2024/06/22 21:18:49 -- O Portobello foi removido do carrinho do cliente Rodrigo Teles
+Data e hora: 2024/06/22 21:19:23 -- O Portobello foi adicionado ao carrinho do cliente Rodrigo Teles
